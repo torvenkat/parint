@@ -5,5 +5,10 @@ tags:
   - test
 ---
 
-I am testing the **new installation** here. 
+I am testing the **new installation** here.  
 
+
+
+> [!NOTE]
+> 
+> Now I have linked it to Obsidian. 
