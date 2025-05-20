@@ -1,5 +1,5 @@
 ---
-date: 2025-05-16
+date created: 2025-05-16
 tags:
   - philosophy
 ---
@@ -32,4 +32,4 @@ Never react to an evil in such a way as to augment it.
 
 Never react to an evil in such a way as to augment it.
 
-Refuse to be an accomplice. Don’t lie — don’t keep your eyes shut…
+Refuse to be an accomplice. Don’t lie — don’t keep your eyes shut.

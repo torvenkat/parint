@@ -1,5 +1,5 @@
 ---
-date: 2025-05-18
+date published: 2025-05-18
 tags:
   - physics
 ---
