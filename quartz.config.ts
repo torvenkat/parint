@@ -24,17 +24,17 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Lora",
-        body: "Lora",
+        body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
+          light: "#f2e5bc",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
-          darkgray: "#ebdbb2",
-          dark: "#2b2b2b",
-          secondary: "#b16286",
+          darkgray: "#1d2021",
+          dark: "#076678",
+          secondary: "#af3a03",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
