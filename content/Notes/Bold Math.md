@@ -5,7 +5,8 @@ tags:
   - latex
 ---
 
-Computer Modern Fonts in LaTeX are nice, because they are thin.  However, there is a certain elegance to old school math books with thicker fonts (see image).
+Computer Modern Fonts in $\LaTeX$  are nice, because they are thin.  However, there is a certain elegance to old school math books with thicker fonts (see image).
+
 
 ![[old_school_math_typesetting.png]]
 

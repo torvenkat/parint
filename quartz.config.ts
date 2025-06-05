@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Raleway",
-        body: "Lato",
+        body: "Hind",
         code: "IBM Plex Mono",
       },
       colors: {
@@ -72,6 +72,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Citations()
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
