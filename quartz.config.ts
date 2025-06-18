@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         header: "Raleway",
         body: "Hind",
-        code: "IBM Plex Mono",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
