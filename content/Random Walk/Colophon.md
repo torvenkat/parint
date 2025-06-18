@@ -1,5 +1,6 @@
 ---
 date: 2025-04-20
+title: Colophon
 tags:
   - obsidian
 ---
