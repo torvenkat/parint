@@ -1,6 +1,7 @@
 ---
 date: 2025-05-20
 title: Colophon
+draft: false
 tags:
   - obsidian
 ---
