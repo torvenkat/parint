@@ -24,7 +24,23 @@ const recentNotes = [
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+ afterBody: [
+  Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'torvenkat/parint',
+      // from data-repo-id
+      repoId: 'R_kgDOOrsq_A',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOOrsq_M4CsESO',
+      // from data-lang
+      lang: 'en'
+    }
+  }),
+],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/torvenkat",
