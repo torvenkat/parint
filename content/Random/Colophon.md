@@ -14,6 +14,8 @@ The body text is typeset in Hind font. Some monospaced contents are typeset in F
 
 My website respects your privacy, does not set any cookies, does not track you across the web, and does not log your IP address.
 
+Comments on this site are enabled by the combination of [GitHub Discussions search API](https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions#search) and [Giscus](https://giscus.app/).   You need to login into your GitHub account to comment on this site.  Comments will appear as soon as they are written.  Spams and abuses detected will be moderated. 
+
 Sources of public domain materials are acknowledged in the pages where they occur.
 
     Quartz is available under MIT license
