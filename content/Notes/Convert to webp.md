@@ -1,5 +1,5 @@
 ---
-date: 2025-06-26
+date: 2025-06-19
 title: Mac Quick Action convert image to webp
 tags:
   - macos
